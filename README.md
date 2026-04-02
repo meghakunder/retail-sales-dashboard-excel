@@ -34,7 +34,7 @@ This project is an interactive retail sales dashboard built in Microsoft Excel t
 
 ## 📸 Dashboard Preview
 
-![Dashboard](dashboard.png)
+![Dashboard](Dashboard.png)
 
 
 
