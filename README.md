@@ -30,7 +30,7 @@ This project is an interactive retail sales dashboard built in Microsoft Excel t
 
 ## 📂 Files Included
 
-* `Retail_Sales_Dashboard.xlsx`
+*-[Retail_Sales_Dashboard.xlsx](Retail_Sales_Dashboard.xlsx) – Main dashboard file
 
 ## 📸 Dashboard Preview
 
